@@ -9,9 +9,8 @@ redirect_from:
 
 #{% include base_path %}
 
-Publications
 ======
 
-* [Paper 1](https://RyanWong5.github.io)
+* HPCA 2021: [An Analog Preconditioner for Solving Linear Systems](https://ieeexplore.ieee.org/abstract/document/9407108)
 
-* [Paper 2]
+* ISCA 2020: [Commutative data reordering: a new technique to reduce data movement energy on sparse inference workloads](https://ieeexplore.ieee.org/abstract/document/9138978)
