@@ -1,7 +1,7 @@
 ---
+layout: archive
 permalink: /test/
-title: ""
-excerpt: "Publications_Test"
+title: "test"
 author_profile: true
 redirect_from: 
   - /test/

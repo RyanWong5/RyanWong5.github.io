@@ -21,4 +21,4 @@ At Rochester, I studied under [Dr. Engin Ipek](https://www.cs.rochester.edu/u/ip
 Fall 2023
 ======
 
-I will be teaching CS 233 Honors in Fall 2023.
+I will be teaching [CS 233 Honors](https://cs233.github.io/) in Fall 2023.
