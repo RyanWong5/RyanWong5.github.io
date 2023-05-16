@@ -1,12 +1,13 @@
 ---
 layout: archive
-permalink: /test/
-title: "test"
+title: "Test"
+permalink: /Test/
 author_profile: true
-redirect_from: 
-  - /test/
-  - /test.html
+redirect_from:
+  - /test
 ---
+
+{% include base_path %}
 
 Publications
 ======
