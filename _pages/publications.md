@@ -7,9 +7,7 @@ redirect_from:
   - /publications
 ---
 
-#{% include base_path %}
-
-======
+{% include base_path %}
 
 * HPCA 2021: [An Analog Preconditioner for Solving Linear Systems](https://ieeexplore.ieee.org/abstract/document/9407108)
 
