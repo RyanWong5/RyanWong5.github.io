@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 Publications
 ======
