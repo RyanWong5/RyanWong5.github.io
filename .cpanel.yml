@@ -8,7 +8,6 @@ deployment:
     - /bin/cp -R _layouts $DEPLOYPATH
     - /bin/cp -R _pages $DEPLOYPATH
     - /bin/cp -R _portfolio $DEPLOYPATH
-    - /bin/cp -R _posts $DEPLOYPATH
     - /bin/cp -R _publications $DEPLOYPATH
     - /bin/cp -R _sass $DEPLOYPATH
     - /bin/cp -R _talks $DEPLOYPATH
