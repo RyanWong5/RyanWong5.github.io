@@ -11,3 +11,8 @@ deployment:
     - /bin/cp -R _publications $DEPLOYPATH
     - /bin/cp -R _sass $DEPLOYPATH
     - /bin/cp -R _talks $DEPLOYPATH
+    - /bin/cp -R files $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp CNAME $DEPLOYPATH
+    - /bin/cp _config.dev.yml $DEPLOYPATH
+    - /bin/cp _config.yml $DEPLOYPATH
