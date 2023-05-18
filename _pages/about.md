@@ -15,7 +15,7 @@ I am a Ph.D. student in the department of Computer Science at the University of 
 My research interests are in the broad area of computer architecture, with particular emphasis in memory and storage systems, as well as accelerators for scientific computing and database systems. 
 
 Prior to coming to Illinois, received a B.S. in Computer Science, B.A. in Chemistry, and a M.S. in Electrical Engineering all from the [University of Rochester](https://rochester.edu/).
-At U of R, I studied under [Dr. Engin Ipek](https://www.cs.rochester.edu/u/ipek/Home.html), where I worked on a variety of research projects from energy-efficient DRAM systems to processing-using-memory analog architectures.
+At U of R, I studied under [Dr. Engin Ipek](https://www.cs.rochester.edu/u/ipek/Home.html), where I worked on a variety of research projects ranging from energy-efficient memory systems to in situ computation.
 
 
 Fall 2023
