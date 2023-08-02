@@ -21,4 +21,4 @@ At U of R, I studied under [Dr. Engin Ipek](https://www.cs.rochester.edu/u/ipek/
 Fall 2023
 ======
 
-I will be teaching [CS 233 Honors](https://cs233.github.io/) in Fall 2023.
+I am teaching [CS 233 Honors](https://cs233.github.io/) in Fall 2023.
