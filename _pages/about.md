@@ -16,9 +16,3 @@ My research interests are in the broad area of computer architecture, with parti
 
 Prior to coming to Illinois, I received a B.S. in Computer Science, B.A. in Chemistry, and an M.S. in Electrical Engineering all from the [University of Rochester](https://rochester.edu/).
 At U of R, I studied under [Dr. Engin Ipek](https://www.cs.rochester.edu/u/ipek/Home.html), where I worked on a variety of research projects ranging from energy-efficient memory systems to processing-in/using-memory.
-
-
-Fall 2023
-======
-
-I am teaching [CS 233 Honors](https://cs233.github.io/) in Fall 2023.
