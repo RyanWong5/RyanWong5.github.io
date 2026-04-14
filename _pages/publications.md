@@ -12,7 +12,7 @@ redirect_from:
 
 * **R. Wong**, B. Feinberg, and S. Ghose, [DARTH-PUM: A Hybrid Processing-Using-Memory Architecture](https://rwong.cs.illinois.edu/files/26asplos_darthpum.pdf), 31<sup>st</sup> International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)**, 2026.
 
-* A. Das, **R. Wong**, A. Tyagi, and S. Ghose, [BRIE-RAM: Exploring Biodegradable Processing-Using-Memory for Sustainable Edge Sensing](https://rwong.cs.illinois.edu/files/26hotethics_brieram.pdf), Workshop on Ethical Systems and Architecture Design (HotEthics), co-located with ASPLOS, 2026.
+* A. Das, **R. Wong**, A. Tyagi, and S. Ghose, [BRIE-RAM: Exploring Biodegradable Processing-Using-Memory for Sustainable Edge Sensing](https://rwong.cs.illinois.edu/files/26hotethics_brieram.pdf), 2<sup>nd</sup> Workshop on Ethical Systems and Architecture Design **(HotEthics)**, co-located with ASPLOS, 2026.
 
 * **R. Wong**, N. Kim, A. Das, K. M. Higgs, E. Ipek, S. Agarwal, S. Ghose, and B. Feinberg, [ANVIL: An In-Storage Accelerator for Name--Value Data Stores](https://rwong.cs.illinois.edu/files/25isca_anvil.pdf), 52<sup>nd</sup> International Symposium on Computer Architecture **(ISCA)**, 2025.
 
