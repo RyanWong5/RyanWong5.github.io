@@ -22,5 +22,5 @@ _Extended paper available at:_ [https://arxiv.org/abs/2403.06938](https://arxiv.
 
 * B. Feinberg, **R. Wong**, T. P. Xiao, C. H. Bennett, J. N. Rohan, E. G. Boman, M. J. Marinella, S. Agarwal, and E. Ipek, [An Analog Preconditioner for Solving Linear Systems](https://rwong.cs.illinois.edu/files/21hpca_precond.pdf), 27<sup>th</sup> International Symposium on High-Performance Computer Architecture **(HPCA)**, 2021. 
 
-* B. Feinberg, B. Heyman, D. Mikhailenko, **R. Wong**, A. Ho, and E. Ipek, [Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Linear Algebra Workloads](https://rwong.cs.illinois.edu/files/20isca_cdr.pdf), 47<sup>th</sup> International Symposium on Computer Architecture **(ISCA)**, 2020.
+* B. Feinberg, B. Heyman, D. Mikhailenko, **R. Wong**, A. Ho, and E. Ipek, [Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Inference Workloads](https://rwong.cs.illinois.edu/files/20isca_cdr.pdf), 47<sup>th</sup> International Symposium on Computer Architecture **(ISCA)**, 2020.
 
