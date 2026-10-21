@@ -29,6 +29,6 @@ At the U of R, I studied under [Prof. Engin Ipek](https://www.cs.rochester.edu/u
 
 - _ASPLOS 2026_: [DARTH-PUM: A Hybrid Processing-Using-Memory Architecture](https://rwong.cs.illinois.edu/files/26asplos_darthpum.pdf)
 - _ISCA 2025_: [ANVIL: An In-Storage Accelerator for Name–Value Data Stores](https://rwong.cs.illinois.edu/files/25isca_anvil.pdf)
-- _HPCA 2021_: [An Analog Preconditioner for Solving Linear Systems](https://rwong.cs.illinois.edu/files/21hpca_analogpreconditioner.pdf)
+- _HPCA 2021_: [An Analog Preconditioner for Solving Linear Systems](https://rwong.cs.illinois.edu/files/21hpca_analogprecond.pdf)
 - _ISCA 2020_: [Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Inference Workloads](https://rwong.cs.illinois.edu/files/20isca_cdr.pdf)
 {: style="margin-top: 0;"} 
