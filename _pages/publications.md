@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* F. Seiler, H. Hu, **R. Wong**, K. K. Güclü, Y. Sun, S. Ghose, J. Aghassi-Hagmann, and N. TaheriNejad, [Cross-Layer Design Approaches of Stateful Digital Memristive In-Memory Computing](https://rwong.cs.illinois.edu/files/26ieeesocc_statefullogic.pdf), _invited paper_ in 39<sup>th</sup> International System-on-Chip Conference (**SoCC**), 2026.
 
 * **R. Wong**, B. Feinberg, and S. Ghose, [DARTH-PUM: A Hybrid Processing-Using-Memory Architecture](https://rwong.cs.illinois.edu/files/26asplos_darthpum.pdf), 31<sup>st</sup> International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)**, 2026.
 
@@ -19,7 +20,7 @@ redirect_from:
 * **R. Wong**, N. Kim, K. M. Higgs, E. Ipek, S. Agarwal, S. Ghose, and B. Feinberg, [TCAM-SSD: A Framework for Search-Based Computing in Solid-State Drives](https://rwong.cs.illinois.edu/files/24nvmw_tcamssd.pdf), 15<sup>th</sup> Non-Volatile Memories Workshop **(NVMW)**, 2024. <br />
 _Extended paper available at:_ [https://arxiv.org/abs/2403.06938](https://arxiv.org/abs/2403.06938).
 
-* B. Feinberg, **R. Wong**, T. P. Xiao, C. H. Bennett, J. N. Rohan, E. G. Boman, M. J. Marinella, S. Agarwal, and E. Ipek, [An Analog Preconditioner for Solving Linear Systems](https://ieeexplore.ieee.org/abstract/document/9407108), 27<sup>th</sup> International Symposium on High-Performance Computer Architecture **(HPCA)**, 2021. 
+* B. Feinberg, **R. Wong**, T. P. Xiao, C. H. Bennett, J. N. Rohan, E. G. Boman, M. J. Marinella, S. Agarwal, and E. Ipek, [An Analog Preconditioner for Solving Linear Systems](https://rwong.cs.illinois.edu/files/21hpca_precond.pdf), 27<sup>th</sup> International Symposium on High-Performance Computer Architecture **(HPCA)**, 2021. 
 
-* B. Feinberg, B. Heyman, D. Mikhailenko, **R. Wong**, A. Ho, and E. Ipek, [Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Linear Algebra Workloads](https://ieeexplore.ieee.org/abstract/document/9138978), 47<sup>th</sup> International Symposium on Computer Architecture **(ISCA)**, 2020.
+* B. Feinberg, B. Heyman, D. Mikhailenko, **R. Wong**, A. Ho, and E. Ipek, [Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Linear Algebra Workloads](https://rwong.cs.illinois.edu/files/20isca_cdr.pdf), 47<sup>th</sup> International Symposium on Computer Architecture **(ISCA)**, 2020.
 
