@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* **[TO APPEAR]**  A. Tyagi, M.S.Q. Truong, **R. Wong**, Y. Sun, D. Xiong, and S. Ghose, “Cross-Stack Design Considerations for Viable Processing-Using-Memory Architectures”, 33<sup>rd</sup> International Symposium on High-Performance Computer Architecture (HPCA), 2027.
+* A. Tyagi, M.S.Q. Truong, **R. Wong**, Y. Sun, D. Xiong, and S. Ghose, “Cross-Stack Design Considerations for Viable Processing-Using-Memory Architectures”, 33<sup>rd</sup> International Symposium on High-Performance Computer Architecture (HPCA), 2027.
 
 * F. Seiler, H. Hu, **R. Wong**, K. K. Güclü, Y. Sun, S. Ghose, J. Aghassi-Hagmann, and N. TaheriNejad, [Cross-Layer Design Approaches of Stateful Digital Memristive In-Memory Computing](https://rwong.cs.illinois.edu/files/26ieeesocc_statefullogic.pdf), _invited paper_ in 39<sup>th</sup> International System-on-Chip Conference (**SoCC**), 2026.
 
